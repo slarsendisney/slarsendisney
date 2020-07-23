@@ -1,4 +1,7 @@
-### Hi there 👋
+<div style="text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<h2 style="margin: 0px;">Sam Larsen-Disney</h2>
+<p style="margin: 0px;">Designer | Engineer | Creator </p>
+</div>
 
 <!--
 **slarsendisney/slarsendisney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<img src="./Macbook-Dark.png" width="60" />
+<p>Find me on <a herf="https://sld.codes">sld.codes</a></p>
+</div>
