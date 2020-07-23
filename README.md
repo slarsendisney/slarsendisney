@@ -1,23 +1,9 @@
-<div style="text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-<h2 style="margin: 0px;">Sam Larsen-Disney</h2>
-<p style="margin: 0px;">Designer | Engineer | Creator </p>
-</div>
+# Hi I'm Sam Lam Larsen-Disney 👋
+[![Linkedin Badge](https://img.shields.io/badge/-sld-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-larsen-disney/)](https://www.linkedin.com/in/samuel-larsen-disney/)
+[![Medium Badge](https://img.shields.io/badge/-@samlarsendisney-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@samlarsendisney)](https://medium.com/@samlarsendisney)
+[![Website Badge](https://img.shields.io/badge/-sld.codes-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sld.codes)](https://sld.codes)
+[![Twitter Badge](https://img.shields.io/badge/-@SamLarsenDisney-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SamLarsenDisney)](https://twitter.com/SamLarsenDisney)
+[![Gmail Badge](https://img.shields.io/badge/-s.larsendisney-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:s.larsendisney@gmail.com)](mailto:s.larsendisney@gmail.com)
 
-<!--
-**slarsendisney/slarsendisney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile! 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div style="text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-<img src="./Macbook-Dark.png" width="60" />
-<p>Find me on <a herf="https://sld.codes">sld.codes</a></p>
-</div>
