@@ -29,8 +29,6 @@ Welcome to my Github profile! I currently work as a UX Engineer at <a href="amer
 <h3>Projects I am working on</h3>
 <h3><a href="https://sld.codes">sld.codes</a></h3>
 <p>My corner of the internet. Home to my articles, presentations and experiements! I'm most proud of <a href="https://sld.codes/stats">my stats page</a> and article reactions.</p>
-<h3><a  href="https://designrant.app">DesignRant</a></h3>
-<p>The Home of Short, Sharp User Experience Complaints. I initially intended this to be a place for me and a few friends to write. But, as I saw more and more signups, it suddenly occurred to me that this could be the perfect place to promote UX designers and developers early in their careers. In order to that best, I have designed DesignRant to put the Authors first.</p>
 <h3>-</h3>
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/samuel-larsen-disney/)!
