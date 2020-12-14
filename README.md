@@ -31,6 +31,7 @@ Welcome to my Github profile! I currently work as a UX Engineer at <a href="amer
 <h3><a href="https://sld.codes">sld.codes</a></h3>
 <p>My corner of the internet. Home to my articles, presentations and experiements! I'm most proud of <a href="https://sld.codes/stats">my stats page</a> and article reactions.</p>
 
+<h3>Projects I've worked on</h3>
 <table>
     <tr>
         <td width="250"  valign="top">
@@ -48,10 +49,33 @@ Welcome to my Github profile! I currently work as a UX Engineer at <a href="amer
           </a>
         </td>
       <td width="250" valign="top">
-          <a href="https://sld.codes/static/c27cf4f8ef5403081a98fee19f34485e/ee604/hero.png">
+          <a href="https://sld.codes/projects/design-rant">
             <img src="https://sld.codes/static/8ceb5d02c09a43603b985d077d06795e/6a6cd/hero.png" alt="Design Rant">
             <h4>Design Rant</h2>
             <p>Short sharp opinionated UX and UI complaints.</p>
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="250"  valign="top">
+          <a href="https://sld.codes/projects/meta-preview">
+            <img src="https://sld.codes/static/968c4246461d43110575c0f98494b784/ee604/MetaPreview.png" alt="Meta Preview" >
+            <h4>Meta Preview</h2>
+            <p>A metadata previewing utility.</p>
+          </a>
+        </td>
+        <td width="250"  valign="top">
+          <a href="https://sld.codes/projects/corona-support">
+            <img src="https://sld.codes/static/6f3516cc4d9ced7d92339eafcbfa60e5/6a6cd/hero.png" alt="Corona Support" >
+            <h4>Corona Support</h2>
+            <p>Rapid-response system for volunteers with real-time alerts.</p>
+          </a>
+        </td>
+      <td width="250" valign="top">
+          <a href="https://sld.codes/projects/dev-con-2019">
+            <img src="https://sld.codes/static/b495e7fc9a39b64ab8af7fc1efc412ca/ee604/hero.png" alt="DevCon 2019">
+            <h4>DevCon 2019</h2>
+            <p>Companion web app for an internal developer conference that gamified the day to encourage attendence and networking.</p>
           </a>
         </td>
     </tr>
