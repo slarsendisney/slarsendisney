@@ -34,6 +34,13 @@ Welcome to my Github profile! I currently work as a UX Engineer at <a href="amer
 <h3>Projects I've worked on</h3>
 <table>
     <tr>
+       <td width="250"  valign="top">
+          <a href="https://sld.codes/projects/archup">
+            <img src="https://sld.codes/static/e00ee6c10978acd3b2cfffd550d604c1/6a6cd/hero.png" alt="ArchUp" >
+            <h4>ArchUp</h2>
+            <p>A new site for career mentoring in finance and consulting..</p>
+          </a>
+        </td>
         <td width="250"  valign="top">
           <a href="https://sld.codes/projects/color-in-culture">
             <img src="https://sld.codes/static/98ad231c07970f02b74f91deb1d70909/ee604/hero.png" alt="Color in Culture" >
@@ -48,6 +55,8 @@ Welcome to my Github profile! I currently work as a UX Engineer at <a href="amer
             <p>Your open source stats in 20 seconds using the gatsby GraphQL API.</p>
           </a>
         </td>
+    </tr>
+    <tr>
       <td width="250" valign="top">
           <a href="https://sld.codes/projects/design-rant">
             <img src="https://sld.codes/static/8ceb5d02c09a43603b985d077d06795e/6a6cd/hero.png" alt="Design Rant">
@@ -55,8 +64,6 @@ Welcome to my Github profile! I currently work as a UX Engineer at <a href="amer
             <p>Short sharp opinionated UX and UI complaints.</p>
           </a>
         </td>
-    </tr>
-    <tr>
         <td width="250"  valign="top">
           <a href="https://sld.codes/projects/meta-preview">
             <img src="https://sld.codes/static/968c4246461d43110575c0f98494b784/ee604/MetaPreview.png" alt="Meta Preview" >
@@ -71,14 +78,7 @@ Welcome to my Github profile! I currently work as a UX Engineer at <a href="amer
             <p>Rapid-response system for volunteers with real-time alerts.</p>
           </a>
         </td>
-      <td width="250" valign="top">
-          <a href="https://sld.codes/projects/dev-con-2019">
-            <img src="https://sld.codes/static/b495e7fc9a39b64ab8af7fc1efc412ca/ee604/hero.png" alt="DevCon 2019">
-            <h4>DevCon 2019</h2>
-            <p>Companion web app for an internal developer conference that gamified the day to encourage attendence and networking.</p>
-          </a>
-        </td>
-    </tr>
+       </tr>
 </table>
 
 <h3>-</h3>
