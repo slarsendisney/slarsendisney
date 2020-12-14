@@ -30,6 +30,34 @@ Welcome to my Github profile! I currently work as a UX Engineer at <a href="amer
 <h3>Projects I am working on</h3>
 <h3><a href="https://sld.codes">sld.codes</a></h3>
 <p>My corner of the internet. Home to my articles, presentations and experiements! I'm most proud of <a href="https://sld.codes/stats">my stats page</a> and article reactions.</p>
+
+<table>
+    <tr>
+        <td width="250"  valign="top">
+          <a href="https://sld.codes/projects/color-in-culture">
+            <img src="https://sld.codes/static/98ad231c07970f02b74f91deb1d70909/ee604/hero.png" alt="Color in Culture" >
+            <h4>Color in Culture</h2>
+            <p>Identify the meaning of colors in other cultures.</p>
+          </a>
+        </td>
+        <td width="250"  valign="top">
+          <a href="https://sld.codes/projects/open-source-and-me">
+            <img src="https://sld.codes/static/0fe0b6385571b1c3e8712236e917781b/ee604/hero.png" alt="opensourceand.me" >
+            <h4>opensourceand.me</h2>
+            <p>Your open source stats in 20 seconds using the gatsby GraphQL API.</p>
+          </a>
+        </td>
+      <td width="250" valign="top">
+          <a href="https://sld.codes/static/c27cf4f8ef5403081a98fee19f34485e/ee604/hero.png">
+            <img src="https://sld.codes/static/8ceb5d02c09a43603b985d077d06795e/6a6cd/hero.png" alt="Design Rant">
+            <h4>Design Rant</h2>
+            <p>Short sharp opinionated UX and UI complaints.</p>
+          </a>
+        </td>
+    </tr>
+</table>
+
 <h3>-</h3>
+
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/samuel-larsen-disney/)!
