@@ -36,21 +36,18 @@ Welcome to my Github profile! I currently work as a UX Engineer at <a href="amer
     <tr>
        <td width="250"  valign="top">
           <a href="https://sld.codes/projects/archup">
-            <img src="https://sld.codes/static/e00ee6c10978acd3b2cfffd550d604c1/6a6cd/hero.png" alt="ArchUp" >
             <h4>ArchUp</h2>
             <p>A new site for career mentoring in finance and consulting..</p>
           </a>
         </td>
         <td width="250"  valign="top">
           <a href="https://sld.codes/projects/color-in-culture">
-            <img src="https://sld.codes/static/98ad231c07970f02b74f91deb1d70909/ee604/hero.png" alt="Color in Culture" >
             <h4>Color in Culture</h2>
             <p>Identify the meaning of colors in other cultures.</p>
           </a>
         </td>
         <td width="250"  valign="top">
           <a href="https://sld.codes/projects/open-source-and-me">
-            <img src="https://sld.codes/static/0fe0b6385571b1c3e8712236e917781b/ee604/hero.png" alt="opensourceand.me" >
             <h4>opensourceand.me</h2>
             <p>Your open source stats in 20 seconds using the gatsby GraphQL API.</p>
           </a>
@@ -59,21 +56,18 @@ Welcome to my Github profile! I currently work as a UX Engineer at <a href="amer
     <tr>
       <td width="250" valign="top">
           <a href="https://sld.codes/projects/design-rant">
-            <img src="https://sld.codes/static/8ceb5d02c09a43603b985d077d06795e/6a6cd/hero.png" alt="Design Rant">
             <h4>Design Rant</h2>
             <p>Short sharp opinionated UX and UI complaints.</p>
           </a>
         </td>
         <td width="250"  valign="top">
           <a href="https://sld.codes/projects/meta-preview">
-            <img src="https://sld.codes/static/968c4246461d43110575c0f98494b784/ee604/MetaPreview.png" alt="Meta Preview" >
             <h4>Meta Preview</h2>
             <p>A metadata previewing utility.</p>
           </a>
         </td>
         <td width="250"  valign="top">
           <a href="https://sld.codes/projects/corona-support">
-            <img src="https://sld.codes/static/6f3516cc4d9ced7d92339eafcbfa60e5/6a6cd/hero.png" alt="Corona Support" >
             <h4>Corona Support</h2>
             <p>Rapid-response system for volunteers with real-time alerts.</p>
           </a>
