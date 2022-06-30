@@ -27,55 +27,5 @@ Welcome to my Github profile! I currently work as a Front-End Engineer at <a hre
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Projects I am working on</h3>
-<h3><a href="https://sld.codes">sld.codes</a></h3>
-<p>My corner of the internet. Home to my articles, presentations and experiements! I'm most proud of <a href="https://sld.codes/stats">my stats page</a> and article reactions.</p>
-
-<h3>Projects I've worked on</h3>
-<table>
-    <tr>
-       <td width="250"  valign="top">
-          <a href="https://sld.codes/projects/archup">
-            <h4>ArchUp</h2>
-            <p>A new site for career mentoring in finance and consulting..</p>
-          </a>
-        </td>
-        <td width="250"  valign="top">
-          <a href="https://sld.codes/projects/color-in-culture">
-            <h4>Color in Culture</h2>
-            <p>Identify the meaning of colors in other cultures.</p>
-          </a>
-        </td>
-        <td width="250"  valign="top">
-          <a href="https://sld.codes/projects/open-source-and-me">
-            <h4>opensourceand.me</h2>
-            <p>Your open source stats in 20 seconds using the gatsby GraphQL API.</p>
-          </a>
-        </td>
-    </tr>
-    <tr>
-      <td width="250" valign="top">
-          <a href="https://sld.codes/projects/design-rant">
-            <h4>Design Rant</h2>
-            <p>Short sharp opinionated UX and UI complaints.</p>
-          </a>
-        </td>
-        <td width="250"  valign="top">
-          <a href="https://sld.codes/projects/meta-preview">
-            <h4>Meta Preview</h2>
-            <p>A metadata previewing utility.</p>
-          </a>
-        </td>
-        <td width="250"  valign="top">
-          <a href="https://sld.codes/projects/corona-support">
-            <h4>Corona Support</h2>
-            <p>Rapid-response system for volunteers with real-time alerts.</p>
-          </a>
-        </td>
-       </tr>
-</table>
-
-<h3>-</h3>
-
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/samuel-larsen-disney/)!
